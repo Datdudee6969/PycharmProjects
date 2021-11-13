@@ -12,4 +12,4 @@ class Node(object):
         """Instantiates a Node with default next of None"""
         self.data = data
         self.next = next
-        Qu
+
